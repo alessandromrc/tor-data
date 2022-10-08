@@ -2,21 +2,21 @@ name: Auto
 
 on:
   schedule:
-      # every 6 hours
+    # every 6 hours
     - cron: "0 */6 * * *"
-    push:
-    branches: [ master ]
+  push:
+    branches: [master]
   pull_request:
-    branches: [ master ]
+    branches: [master]
 
 jobs:
   test:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v2
-    - uses: actions/setup-node@v2
-      with:
-        node-version: '14'
-    - run: npm install
-    - run: node main.js
-    - run: node scanner.js
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v2
+        with:
+          node-version: "14"
+      - run: npm install
+      - run: node main.js
+      - run: node scanner.js
