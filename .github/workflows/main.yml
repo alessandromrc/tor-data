@@ -1,7 +1,9 @@
 name: Auto
 
-on: [push, pull_request]
-
+on:
+  schedule:
+    # every 12 hours
+    - cron: "0 */12 * * *"
 
 jobs:
   test:
