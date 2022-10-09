@@ -1,8 +1,6 @@
 const fs = require('fs');
 const fetch = require('node-fetch');
 
-const tor_json = "./details.json";
-
 const downloadFile = (async (url, path) => {
   const res = await fetch(url);
   const fileStream = fs.createWriteStream(path);
@@ -13,7 +11,12 @@ const downloadFile = (async (url, path) => {
   });
 });
 
-if (downloadFile("https://onionoo.torproject.org/details?search=flag:exit", tor_json)) {
+async function main() {
+  const tor_json = "./details.json";
+
+  await downloadFile("https://onionoo.torproject.org/details?search=flag:exit", tor_json);
+
+
   let rawdata = fs.readFileSync(tor_json);
   let data = JSON.parse(rawdata);
   const outputPath = "./output/";
@@ -34,4 +37,7 @@ if (downloadFile("https://onionoo.torproject.org/details?search=flag:exit", tor_
   fs.writeFileSync(outputPath + "nodes.json", JSON.stringify(Node, null, 4));
   fs.writeFileSync(outputPath + "ASN.json", JSON.stringify(ASN, null, 4));
 }
+
+main()
+
 
