@@ -2,8 +2,8 @@ name: Auto
 
 on:
   schedule:
-    # every 12 hours
-    - cron: "0 */12 * * *"
+    # every hour
+    - cron: "0 */1 * * *"
 
 jobs:
   test:
