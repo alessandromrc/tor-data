@@ -5914,7 +5914,7 @@
         "asn": "AS1101"
     },
     {
-        "nickname": "noack1i1",
+        "nickname": "noack14i1",
         "exit_address": [
             "195.47.238.178",
             "195.47.238.82"
@@ -7845,7 +7845,7 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "noack14i0",
+        "nickname": "noack1i0",
         "exit_address": [
             "195.47.238.178",
             "195.47.238.82"
@@ -15434,9 +15434,6 @@
     },
     {
         "nickname": "prsv",
-        "exit_address": [
-            "89.185.82.63"
-        ],
         "asn": "AS215540"
     },
     {
