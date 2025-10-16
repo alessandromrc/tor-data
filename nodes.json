@@ -2996,9 +2996,6 @@
     },
     {
         "nickname": "CembraNutBoys04",
-        "exit_address": [
-            "209.200.246.244"
-        ],
         "asn": "AS215311"
     },
     {
@@ -6995,12 +6992,12 @@
         "asn": "AS23470"
     },
     {
-        "nickname": "hogman2",
+        "nickname": "hogman6",
         "exit_address": [
             "209.141.45.81",
             "23.137.253.109"
         ],
-        "asn": "AS210630"
+        "asn": "AS53667"
     },
     {
         "nickname": "brrbigchungus",
@@ -15951,6 +15948,9 @@
     },
     {
         "nickname": "CembraNutBoys04",
+        "exit_address": [
+            "190.123.46.170"
+        ],
         "asn": "AS52284"
     },
     {
