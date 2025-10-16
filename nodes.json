@@ -6498,9 +6498,6 @@
     },
     {
         "nickname": "prsv",
-        "exit_address": [
-            "89.185.82.63"
-        ],
         "asn": "AS215540"
     },
     {
@@ -12639,6 +12636,9 @@
     },
     {
         "nickname": "notamateurhour",
+        "exit_address": [
+            "192.34.80.176"
+        ],
         "asn": "AS33083"
     },
     {
@@ -16517,9 +16517,6 @@
     },
     {
         "nickname": "prsv",
-        "exit_address": [
-            "89.185.82.63"
-        ],
         "asn": "AS215540"
     },
     {
@@ -17432,9 +17429,6 @@
     },
     {
         "nickname": "prsv",
-        "exit_address": [
-            "89.185.82.63"
-        ],
         "asn": "AS215540"
     },
     {
