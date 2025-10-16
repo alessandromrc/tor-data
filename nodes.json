@@ -10968,9 +10968,6 @@
     },
     {
         "nickname": "PrivateExit",
-        "exit_address": [
-            "104.225.223.97"
-        ],
         "asn": "AS29802"
     },
     {
@@ -15947,6 +15944,10 @@
             "89.147.108.90"
         ],
         "asn": "AS44925"
+    },
+    {
+        "nickname": "CembraNutBoys04",
+        "asn": "AS52284"
     },
     {
         "nickname": "artikel5ev12b",
