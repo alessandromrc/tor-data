@@ -14475,6 +14475,9 @@
     },
     {
         "nickname": "plebelet",
+        "exit_address": [
+            "107.189.27.145"
+        ],
         "asn": "AS14956"
     },
     {
