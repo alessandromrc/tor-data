@@ -7716,6 +7716,9 @@
     },
     {
         "nickname": "ididnteditheconfig",
+        "exit_address": [
+            "202.61.253.243"
+        ],
         "asn": "AS197540"
     },
     {
