@@ -10753,9 +10753,6 @@
     },
     {
         "nickname": "sexytiem",
-        "exit_address": [
-            "95.216.107.148"
-        ],
         "asn": "AS24940"
     },
     {
@@ -19787,13 +19784,6 @@
             "152.53.106.19"
         ],
         "asn": "AS197540"
-    },
-    {
-        "nickname": "relaya8f2e89falpha",
-        "exit_address": [
-            "45.137.99.16"
-        ],
-        "asn": "AS214209"
     },
     {
         "nickname": "Quetzalcoatl",
