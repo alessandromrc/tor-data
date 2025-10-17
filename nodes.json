@@ -1408,6 +1408,10 @@
         "asn": "AS40021"
     },
     {
+        "nickname": "vannoose",
+        "asn": "AS44925"
+    },
+    {
         "nickname": "Quetzalcoatl",
         "exit_address": [
             "45.80.158.167"
@@ -9881,9 +9885,6 @@
     },
     {
         "nickname": "emberhare",
-        "exit_address": [
-            "5.34.182.203"
-        ],
         "asn": "AS15626"
     },
     {
