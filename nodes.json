@@ -4954,6 +4954,10 @@
         "asn": "AS1101"
     },
     {
+        "nickname": "3IATLAS",
+        "asn": "AS59711"
+    },
+    {
         "nickname": "Bagpipe",
         "exit_address": [
             "66.78.40.182"
@@ -19485,6 +19489,10 @@
             "192.42.116.195"
         ],
         "asn": "AS1101"
+    },
+    {
+        "nickname": "3IATLAS",
+        "asn": "AS59711"
     },
     {
         "nickname": "NTH1R5",
