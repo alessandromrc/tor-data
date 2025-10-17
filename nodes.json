@@ -2151,9 +2151,6 @@
     },
     {
         "nickname": "sv413e1",
-        "exit_address": [
-            "65.87.7.198"
-        ],
         "asn": "AS215659"
     },
     {
@@ -14475,6 +14472,10 @@
             "80.94.92.106"
         ],
         "asn": "AS47890"
+    },
+    {
+        "nickname": "plebelet",
+        "asn": "AS14956"
     },
     {
         "nickname": "Digitalcourage4ip1b",
