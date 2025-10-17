@@ -4959,6 +4959,9 @@
     },
     {
         "nickname": "3IATLAS",
+        "exit_address": [
+            "89.150.40.216"
+        ],
         "asn": "AS59711"
     },
     {
@@ -19493,6 +19496,9 @@
     },
     {
         "nickname": "3IATLAS",
+        "exit_address": [
+            "89.150.40.216"
+        ],
         "asn": "AS59711"
     },
     {
