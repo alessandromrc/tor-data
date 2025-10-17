@@ -13240,6 +13240,9 @@
     },
     {
         "nickname": "anonymous",
+        "exit_address": [
+            "45.142.195.40"
+        ],
         "asn": "AS215929"
     },
     {
