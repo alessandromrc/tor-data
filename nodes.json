@@ -5907,7 +5907,7 @@
         "asn": "AS1101"
     },
     {
-        "nickname": "noack1i1",
+        "nickname": "noack14i1",
         "exit_address": [
             "195.47.238.178",
             "195.47.238.82"
@@ -7715,6 +7715,10 @@
         "asn": "AS396507"
     },
     {
+        "nickname": "ididnteditheconfig",
+        "asn": "AS197540"
+    },
+    {
         "nickname": "Quetzalcoatl",
         "exit_address": [
             "124.198.131.253"
@@ -7838,7 +7842,7 @@
         "asn": "AS210558"
     },
     {
-        "nickname": "noack14i0",
+        "nickname": "noack1i0",
         "exit_address": [
             "195.47.238.178",
             "195.47.238.82"
