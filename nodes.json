@@ -3402,10 +3402,6 @@
         "asn": "AS53667"
     },
     {
-        "nickname": "thealgorithm",
-        "asn": "AS13030"
-    },
-    {
         "nickname": "NTH30R7",
         "exit_address": [
             "192.42.116.182"
@@ -6987,8 +6983,7 @@
     {
         "nickname": "hogman6",
         "exit_address": [
-            "209.141.45.81",
-            "23.137.253.109"
+            "209.141.45.81"
         ],
         "asn": "AS53667"
     },
@@ -7755,10 +7750,6 @@
             "45.9.156.101"
         ],
         "asn": "AS211619"
-    },
-    {
-        "nickname": "thealgorithm1",
-        "asn": "AS13030"
     },
     {
         "nickname": "tomino",
@@ -13247,6 +13238,10 @@
             "193.26.115.123"
         ],
         "asn": "AS23470"
+    },
+    {
+        "nickname": "anonymous",
+        "asn": "AS215929"
     },
     {
         "nickname": "noack12i2",
