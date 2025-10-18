@@ -3774,10 +3774,6 @@
         "asn": "AS198093"
     },
     {
-        "nickname": "exittorgsc1",
-        "asn": "AS213725"
-    },
-    {
         "nickname": "kofatra",
         "exit_address": [
             "23.129.64.171"
@@ -6991,7 +6987,8 @@
     {
         "nickname": "hogman2",
         "exit_address": [
-            "209.141.45.81"
+            "209.141.45.81",
+            "23.137.253.109"
         ],
         "asn": "AS210630"
     },
