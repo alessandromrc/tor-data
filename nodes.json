@@ -4338,6 +4338,10 @@
         "asn": "AS1101"
     },
     {
+        "nickname": "GrindMode",
+        "asn": "AS58087"
+    },
+    {
         "nickname": "NTH7R1",
         "exit_address": [
             "192.42.116.197"
