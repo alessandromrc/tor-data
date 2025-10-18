@@ -10114,8 +10114,7 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
-            "198.167.206.222",
-            "198.167.206.236"
+            "198.167.206.222"
         ],
         "asn": "AS39287"
     },
@@ -14303,6 +14302,9 @@
     },
     {
         "nickname": "forest5",
+        "exit_address": [
+            "185.66.91.23"
+        ],
         "asn": "AS30860"
     },
     {
@@ -18878,7 +18880,7 @@
         "asn": "AS53667"
     },
     {
-        "nickname": "MyPrivateExitNode",
+        "nickname": "MyVps2ExitNode",
         "asn": "AS50053"
     },
     {
