@@ -10120,6 +10120,7 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
+            "198.167.206.198",
             "198.167.206.222"
         ],
         "asn": "AS39287"
