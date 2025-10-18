@@ -18881,6 +18881,9 @@
     },
     {
         "nickname": "MyVps2ExitNode",
+        "exit_address": [
+            "23.177.185.98"
+        ],
         "asn": "AS50053"
     },
     {
