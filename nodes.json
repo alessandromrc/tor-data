@@ -4339,6 +4339,9 @@
     },
     {
         "nickname": "GrindMode",
+        "exit_address": [
+            "37.221.93.88"
+        ],
         "asn": "AS58087"
     },
     {
@@ -6986,12 +6989,12 @@
         "asn": "AS23470"
     },
     {
-        "nickname": "hogman6",
+        "nickname": "hogman2",
         "exit_address": [
             "209.141.45.81",
             "23.137.253.109"
         ],
-        "asn": "AS53667"
+        "asn": "AS210630"
     },
     {
         "nickname": "brrbigchungus",
@@ -7844,8 +7847,7 @@
     {
         "nickname": "noack14i0",
         "exit_address": [
-            "195.47.238.178",
-            "195.47.238.82"
+            "195.47.238.178"
         ],
         "asn": "AS30893"
     },
@@ -11356,10 +11358,6 @@
             "185.220.101.1"
         ],
         "asn": "AS60729"
-    },
-    {
-        "nickname": "vapaanet",
-        "asn": "AS215311"
     },
     {
         "nickname": "prsv",
