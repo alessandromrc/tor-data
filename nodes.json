@@ -1409,6 +1409,9 @@
     },
     {
         "nickname": "vannoose",
+        "exit_address": [
+            "93.95.231.118"
+        ],
         "asn": "AS44925"
     },
     {
@@ -2723,9 +2726,6 @@
     },
     {
         "nickname": "CSTLLNODE3",
-        "exit_address": [
-            "195.246.231.141"
-        ],
         "asn": "AS264617"
     },
     {
@@ -6989,11 +6989,11 @@
         "asn": "AS23470"
     },
     {
-        "nickname": "hogman6",
+        "nickname": "hogman2",
         "exit_address": [
             "209.141.45.81"
         ],
-        "asn": "AS53667"
+        "asn": "AS210630"
     },
     {
         "nickname": "brrbigchungus",
@@ -20119,9 +20119,6 @@
     },
     {
         "nickname": "onshy",
-        "exit_address": [
-            "5.255.114.171"
-        ],
         "asn": "AS60404"
     },
     {
