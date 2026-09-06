@@ -731,10 +731,6 @@
         "asn": "AS36849"
     },
     {
-        "nickname": "BurningMaggi",
-        "asn": "AS24940"
-    },
-    {
         "nickname": "klaxhex",
         "asn": "AS53667"
     },
@@ -5432,10 +5428,6 @@
         "asn": "AS29075"
     },
     {
-        "nickname": "2a9ebf247dd0f16f41",
-        "asn": "AS174"
-    },
-    {
         "nickname": "xyz",
         "asn": "AS62240"
     },
@@ -6859,6 +6851,10 @@
     {
         "nickname": "SomeTorinAS200462",
         "asn": "AS200462"
+    },
+    {
+        "nickname": "TorTorstensson",
+        "asn": "AS29518"
     },
     {
         "nickname": "goldensnitch",
@@ -9375,10 +9371,6 @@
         "asn": "AS208323"
     },
     {
-        "nickname": "680b4fe2c69ccb330a",
-        "asn": "AS6698"
-    },
-    {
         "nickname": "Entry9324",
         "asn": "AS27747"
     },
@@ -11844,6 +11836,9 @@
     },
     {
         "nickname": "algrothendieck4",
+        "exit_address": [
+            "80.67.172.162"
+        ],
         "asn": "AS20766"
     },
     {
@@ -13861,10 +13856,6 @@
     {
         "nickname": "SnowballII",
         "asn": "AS51167"
-    },
-    {
-        "nickname": "a2fc4592d1b7a080db",
-        "asn": "AS36352"
     },
     {
         "nickname": "Serenity060874e7",
@@ -37925,10 +37916,6 @@
         "asn": "AS16276"
     },
     {
-        "nickname": "ididedittheconfig",
-        "asn": "AS2856"
-    },
-    {
         "nickname": "myNiceRelay",
         "exit_address": [
             "150.40.126.134"
@@ -40655,10 +40642,6 @@
     {
         "nickname": "BigDaddy",
         "asn": "AS200052"
-    },
-    {
-        "nickname": "CGXRelay01",
-        "asn": "AS328970"
     },
     {
         "nickname": "rotatopotato",
@@ -43622,6 +43605,10 @@
             "141.239.158.222"
         ],
         "asn": "AS36149"
+    },
+    {
+        "nickname": "tracerwall",
+        "asn": "AS3301"
     },
     {
         "nickname": "TORfuExit04",
@@ -50296,9 +50283,6 @@
     },
     {
         "nickname": "1921431853189438",
-        "exit_address": [
-            "92.119.164.208"
-        ],
         "asn": "AS211507"
     },
     {
@@ -51004,10 +50988,6 @@
             "192.42.116.107"
         ],
         "asn": "AS215125"
-    },
-    {
-        "nickname": "abc5d3dc1d5c5600f9",
-        "asn": "AS16019"
     },
     {
         "nickname": "Polyphemus11",
