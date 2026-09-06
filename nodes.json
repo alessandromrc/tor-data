@@ -4055,6 +4055,9 @@
     },
     {
         "nickname": "ZaNetExit01",
+        "exit_address": [
+            "89.125.120.229"
+        ],
         "asn": "AS58061"
     },
     {
@@ -16695,6 +16698,10 @@
         "asn": "AS210731"
     },
     {
+        "nickname": "jeffsbaum",
+        "asn": "AS3209"
+    },
+    {
         "nickname": "ForDemocracy4",
         "asn": "AS16276"
     },
@@ -16907,6 +16914,10 @@
     {
         "nickname": "VG3TWR4AZ7",
         "asn": "AS24940"
+    },
+    {
+        "nickname": "nauzome",
+        "asn": "AS16276"
     },
     {
         "nickname": "Scratches",
@@ -19204,6 +19215,10 @@
             "204.8.96.156"
         ],
         "asn": "AS62744"
+    },
+    {
+        "nickname": "ScruffyRelay",
+        "asn": "AS19165"
     },
     {
         "nickname": "OtterHarbor74",
@@ -42878,10 +42893,6 @@
         "asn": "AS48753"
     },
     {
-        "nickname": "fgth69",
-        "asn": "AS12876"
-    },
-    {
         "nickname": "geheimkaisx",
         "asn": "AS197540"
     },
@@ -44351,6 +44362,9 @@
     },
     {
         "nickname": "oldInJoke",
+        "exit_address": [
+            "85.253.177.151"
+        ],
         "asn": "AS2586"
     },
     {
@@ -49586,10 +49600,6 @@
         "asn": "AS29802"
     },
     {
-        "nickname": "SEC6xFreeBSD64",
-        "asn": "AS1103"
-    },
-    {
         "nickname": "eo214",
         "exit_address": [
             "23.129.64.214"
@@ -49860,7 +49870,7 @@
     },
     {
         "nickname": "archandnixbtw",
-        "asn": "AS6810"
+        "asn": "AS12400"
     },
     {
         "nickname": "opencommunity",
@@ -50324,6 +50334,10 @@
     {
         "nickname": "bumbum",
         "asn": "AS3209"
+    },
+    {
+        "nickname": "maktora",
+        "asn": "AS12312"
     },
     {
         "nickname": "NTH305R5",
