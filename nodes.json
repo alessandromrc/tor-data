@@ -12827,6 +12827,9 @@
     },
     {
         "nickname": "txn1copeland",
+        "exit_address": [
+            "209.141.32.198"
+        ],
         "asn": "AS53667"
     },
     {
@@ -16353,6 +16356,10 @@
         "asn": "AS812"
     },
     {
+        "nickname": "StartOSRelay",
+        "asn": "AS397412"
+    },
+    {
         "nickname": "Quintex294",
         "exit_address": [
             "204.8.96.183"
@@ -18309,7 +18316,7 @@
     },
     {
         "nickname": "ShinobiKuma",
-        "asn": "AS51659"
+        "asn": "AS49392"
     },
     {
         "nickname": "Info",
@@ -28058,10 +28065,6 @@
         "asn": "AS41281"
     },
     {
-        "nickname": "VyOS98072node1",
-        "asn": "AS20055"
-    },
-    {
         "nickname": "jdawg",
         "asn": "AS36849"
     },
@@ -32339,6 +32342,10 @@
         "asn": "AS399646"
     },
     {
+        "nickname": "forest59",
+        "asn": "AS59253"
+    },
+    {
         "nickname": "fireboyoau",
         "asn": "AS36849"
     },
@@ -34858,10 +34865,6 @@
     {
         "nickname": "lilpound",
         "asn": "AS36849"
-    },
-    {
-        "nickname": "twofive",
-        "asn": "AS3320"
     },
     {
         "nickname": "dotsrcExit7",
