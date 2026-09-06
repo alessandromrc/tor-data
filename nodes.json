@@ -4054,6 +4054,10 @@
         "asn": "AS198093"
     },
     {
+        "nickname": "ZaNetExit01",
+        "asn": "AS58061"
+    },
+    {
         "nickname": "freetornode",
         "exit_address": [
             "217.60.198.95"
@@ -6135,6 +6139,9 @@
     },
     {
         "nickname": "2mpe3",
+        "exit_address": [
+            "198.98.51.249"
+        ],
         "asn": "AS53667"
     },
     {
@@ -12909,6 +12916,10 @@
         "asn": "AS213873"
     },
     {
+        "nickname": "VeniVidiVici",
+        "asn": "AS212219"
+    },
+    {
         "nickname": "plsDontDDoSMe",
         "asn": "AS202520"
     },
@@ -17106,10 +17117,6 @@
             "204.8.96.118"
         ],
         "asn": "AS62744"
-    },
-    {
-        "nickname": "ididnteditheconfig",
-        "asn": "AS20473"
     },
     {
         "nickname": "DFRI24",
@@ -26937,6 +26944,7 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
+            "198.167.206.179",
             "198.167.206.224",
             "198.167.206.234"
         ],
@@ -27769,10 +27777,6 @@
     {
         "nickname": "tigris",
         "asn": "AS19437"
-    },
-    {
-        "nickname": "Smeerboel",
-        "asn": "AS1103"
     },
     {
         "nickname": "stunna4vegas",
@@ -30077,10 +30081,6 @@
     {
         "nickname": "tooshort",
         "asn": "AS36849"
-    },
-    {
-        "nickname": "mgrotetor1",
-        "asn": "AS8560"
     },
     {
         "nickname": "NTH118R6",
@@ -44350,6 +44350,10 @@
         "asn": "AS40021"
     },
     {
+        "nickname": "oldInJoke",
+        "asn": "AS2586"
+    },
+    {
         "nickname": "borg",
         "asn": "AS208323"
     },
@@ -49486,6 +49490,10 @@
         "asn": "AS8495"
     },
     {
+        "nickname": "JohnFilch123",
+        "asn": "AS328364"
+    },
+    {
         "nickname": "undevfine",
         "asn": "AS31898"
     },
@@ -53209,10 +53217,6 @@
         "asn": "AS60117"
     },
     {
-        "nickname": "unknowncontributor",
-        "asn": "AS138915"
-    },
-    {
         "nickname": "violetknight",
         "asn": "AS8560"
     },
@@ -53425,10 +53429,6 @@
     {
         "nickname": "jim",
         "asn": "AS42730"
-    },
-    {
-        "nickname": "Unnamed",
-        "asn": "AS203446"
     },
     {
         "nickname": "Groseille",
