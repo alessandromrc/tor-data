@@ -2180,9 +2180,6 @@
     },
     {
         "nickname": "DONTLOOKATME",
-        "exit_address": [
-            "138.249.138.129"
-        ],
         "asn": "AS63023"
     },
     {
@@ -2516,6 +2513,10 @@
             "204.8.96.177"
         ],
         "asn": "AS62744"
+    },
+    {
+        "nickname": "itcanhappenhere",
+        "asn": "AS50613"
     },
     {
         "nickname": "Johnson46243",
@@ -5799,9 +5800,6 @@
     },
     {
         "nickname": "GO666",
-        "exit_address": [
-            "138.249.138.126"
-        ],
         "asn": "AS63023"
     },
     {
@@ -7157,10 +7155,6 @@
             "23.129.64.153"
         ],
         "asn": "AS396507"
-    },
-    {
-        "nickname": "limelight",
-        "asn": "AS131965"
     },
     {
         "nickname": "bluefacenc",
@@ -8575,10 +8569,6 @@
     {
         "nickname": "kodakblack",
         "asn": "AS56655"
-    },
-    {
-        "nickname": "hermes",
-        "asn": "AS36352"
     },
     {
         "nickname": "DFRI50",
@@ -14763,10 +14753,6 @@
         "asn": "AS174"
     },
     {
-        "nickname": "SORgaming",
-        "asn": "AS16276"
-    },
-    {
         "nickname": "ganymede",
         "asn": "AS3320"
     },
@@ -18342,6 +18328,9 @@
     },
     {
         "nickname": "Prometheus",
+        "exit_address": [
+            "150.40.127.12"
+        ],
         "asn": "AS211619"
     },
     {
@@ -27520,9 +27509,6 @@
     },
     {
         "nickname": "DOYOULOVEME",
-        "exit_address": [
-            "138.249.138.125"
-        ],
         "asn": "AS63023"
     },
     {
@@ -31615,9 +31601,6 @@
     },
     {
         "nickname": "IANTGVFKBTLOGS",
-        "exit_address": [
-            "138.249.138.127"
-        ],
         "asn": "AS63023"
     },
     {
@@ -35976,10 +35959,6 @@
     {
         "nickname": "gAte2AwaY",
         "asn": "AS8254"
-    },
-    {
-        "nickname": "zerberusTor",
-        "asn": "AS15943"
     },
     {
         "nickname": "NTH62R6",
@@ -44527,9 +44506,6 @@
     },
     {
         "nickname": "ABTURACK",
-        "exit_address": [
-            "138.249.138.123"
-        ],
         "asn": "AS63023"
     },
     {
@@ -48654,9 +48630,6 @@
     },
     {
         "nickname": "ONMAD",
-        "exit_address": [
-            "138.249.138.122"
-        ],
         "asn": "AS63023"
     },
     {
