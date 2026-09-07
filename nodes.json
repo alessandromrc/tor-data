@@ -1211,10 +1211,6 @@
         "asn": "AS24940"
     },
     {
-        "nickname": "RootZone",
-        "asn": "AS16276"
-    },
-    {
         "nickname": "kdot",
         "asn": "AS36849"
     },
@@ -1967,9 +1963,6 @@
     },
     {
         "nickname": "WTFUEXPECT",
-        "exit_address": [
-            "138.249.138.124"
-        ],
         "asn": "AS63023"
     },
     {
@@ -4612,9 +4605,6 @@
     },
     {
         "nickname": "tspio",
-        "exit_address": [
-            "77.81.247.72"
-        ],
         "asn": "AS43927"
     },
     {
@@ -11634,6 +11624,10 @@
         "asn": "AS12876"
     },
     {
+        "nickname": "YOURNICKNAME",
+        "asn": "AS198550"
+    },
+    {
         "nickname": "Quintex40",
         "exit_address": [
             "204.8.96.89"
@@ -16590,6 +16584,10 @@
         "asn": "AS200651"
     },
     {
+        "nickname": "bandofbrothers",
+        "asn": "AS14956"
+    },
+    {
         "nickname": "kunafa",
         "asn": "AS20473"
     },
@@ -19187,10 +19185,6 @@
         "asn": "AS19165"
     },
     {
-        "nickname": "OtterHarbor74",
-        "asn": "AS174"
-    },
-    {
         "nickname": "Dragon86741",
         "asn": "AS14061"
     },
@@ -21357,6 +21351,13 @@
     {
         "nickname": "who",
         "asn": "AS16276"
+    },
+    {
+        "nickname": "prideoflions",
+        "exit_address": [
+            "186.240.149.160"
+        ],
+        "asn": "AS47583"
     },
     {
         "nickname": "prsv",
@@ -24434,10 +24435,6 @@
     {
         "nickname": "ch01r",
         "asn": "AS53667"
-    },
-    {
-        "nickname": "c751b2574ca14e5c87",
-        "asn": "AS34666"
     },
     {
         "nickname": "DFRI164",
@@ -28085,6 +28082,10 @@
     {
         "nickname": "letsdoitAT",
         "asn": "AS44133"
+    },
+    {
+        "nickname": "UnimatrixZero",
+        "asn": "AS14061"
     },
     {
         "nickname": "testowo",
@@ -33069,9 +33070,6 @@
     },
     {
         "nickname": "Jesse",
-        "exit_address": [
-            "85.203.40.203"
-        ],
         "asn": "AS212477"
     },
     {
@@ -34241,9 +34239,6 @@
     },
     {
         "nickname": "Lycus",
-        "exit_address": [
-            "179.43.176.6"
-        ],
         "asn": "AS51852"
     },
     {
