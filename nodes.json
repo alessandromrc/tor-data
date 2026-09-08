@@ -7814,10 +7814,6 @@
         "asn": "AS214379"
     },
     {
-        "nickname": "GhostPacket",
-        "asn": "AS33993"
-    },
-    {
         "nickname": "PRQseTORexit3",
         "exit_address": [
             "88.80.26.4"
@@ -8005,10 +8001,6 @@
             "23.129.64.212"
         ],
         "asn": "AS396507"
-    },
-    {
-        "nickname": "MidEngine",
-        "asn": "AS33993"
     },
     {
         "nickname": "DonaldTorump",
@@ -10084,10 +10076,6 @@
     {
         "nickname": "FTPhalifaxRWTH",
         "asn": "AS47610"
-    },
-    {
-        "nickname": "10TUCKLESEXIT",
-        "asn": "AS212477"
     },
     {
         "nickname": "NTH53R4",
@@ -15954,10 +15942,6 @@
         "asn": "AS51395"
     },
     {
-        "nickname": "QOnan",
-        "asn": "AS13030"
-    },
-    {
         "nickname": "Indigold",
         "asn": "AS24940"
     },
@@ -16625,10 +16609,6 @@
             "192.42.116.45"
         ],
         "asn": "AS215125"
-    },
-    {
-        "nickname": "HatOfTin",
-        "asn": "AS44133"
     },
     {
         "nickname": "Maokai",
@@ -17385,10 +17365,6 @@
     {
         "nickname": "flowjob05",
         "asn": "AS197540"
-    },
-    {
-        "nickname": "10TUCKLESEXIT",
-        "asn": "AS212477"
     },
     {
         "nickname": "narp",
@@ -18154,7 +18130,7 @@
     },
     {
         "nickname": "ShinobiKuma",
-        "asn": "AS49392"
+        "asn": "AS51659"
     },
     {
         "nickname": "Info",
@@ -21673,10 +21649,6 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "Mojename",
-        "asn": "AS210139"
-    },
-    {
         "nickname": "Quetzalcoatl",
         "exit_address": [
             "154.53.58.161"
@@ -24619,10 +24591,6 @@
         "asn": "AS63473"
     },
     {
-        "nickname": "Unnamed",
-        "asn": "AS29447"
-    },
-    {
         "nickname": "northerndownpour",
         "asn": "AS197540"
     },
@@ -25118,10 +25086,6 @@
             "171.25.193.131"
         ],
         "asn": "AS198093"
-    },
-    {
-        "nickname": "TV4721",
-        "asn": "AS701"
     },
     {
         "nickname": "Quintex562",
@@ -25868,6 +25832,10 @@
     {
         "nickname": "gingerkeyboard",
         "asn": "AS20473"
+    },
+    {
+        "nickname": "OptiHolo",
+        "asn": "AS6805"
     },
     {
         "nickname": "CiiiTor",
@@ -28352,6 +28320,9 @@
     },
     {
         "nickname": "6353822997543673",
+        "exit_address": [
+            "185.132.53.27"
+        ],
         "asn": "AS211507"
     },
     {
@@ -28788,6 +28759,9 @@
     },
     {
         "nickname": "Unnamed",
+        "exit_address": [
+            "209.222.30.179"
+        ],
         "asn": "AS20473"
     },
     {
@@ -31455,10 +31429,6 @@
     {
         "nickname": "forest57",
         "asn": "AS20860"
-    },
-    {
-        "nickname": "ChocolateBit",
-        "asn": "AS41745"
     },
     {
         "nickname": "Quintex205",
@@ -35932,10 +35902,6 @@
         "asn": "AS401401"
     },
     {
-        "nickname": "TV6445",
-        "asn": "AS2856"
-    },
-    {
         "nickname": "LetsAllLoveLain",
         "asn": "AS40676"
     },
@@ -38861,10 +38827,6 @@
     {
         "nickname": "rafsnicesrelay",
         "asn": "AS197540"
-    },
-    {
-        "nickname": "10TUCKLESEXIT",
-        "asn": "AS212477"
     },
     {
         "nickname": "zoozndeq",
@@ -42845,6 +42807,9 @@
     },
     {
         "nickname": "Unnamed",
+        "exit_address": [
+            "207.148.100.177"
+        ],
         "asn": "AS20473"
     },
     {
@@ -43134,6 +43099,9 @@
     },
     {
         "nickname": "Unnamed",
+        "exit_address": [
+            "173.199.90.74"
+        ],
         "asn": "AS20473"
     },
     {
@@ -43360,6 +43328,9 @@
     },
     {
         "nickname": "BringBackSilkRo",
+        "exit_address": [
+            "141.98.11.62"
+        ],
         "asn": "AS209605"
     },
     {
@@ -44608,10 +44579,6 @@
             "185.34.33.2"
         ],
         "asn": "AS28855"
-    },
-    {
-        "nickname": "DINOTOR",
-        "asn": "AS208723"
     },
     {
         "nickname": "icyblue",
@@ -52222,10 +52189,6 @@
     {
         "nickname": "helmsdeepNO",
         "asn": "AS34087"
-    },
-    {
-        "nickname": "MidEngine",
-        "asn": "AS33993"
     },
     {
         "nickname": "BizarreWorkerKA08",
