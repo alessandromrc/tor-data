@@ -7763,6 +7763,9 @@
     },
     {
         "nickname": "PandaHideout",
+        "exit_address": [
+            "49.213.62.84"
+        ],
         "asn": "AS213605"
     },
     {
@@ -9691,6 +9694,10 @@
         "asn": "AS36849"
     },
     {
+        "nickname": "thepavilion",
+        "asn": "AS12876"
+    },
+    {
         "nickname": "ScaryBear",
         "asn": "AS577"
     },
@@ -10386,6 +10393,10 @@
         "asn": "AS36849"
     },
     {
+        "nickname": "jungefreiheit",
+        "asn": "AS3320"
+    },
+    {
         "nickname": "Spiegelberg",
         "asn": "AS16276"
     },
@@ -10700,6 +10711,9 @@
     },
     {
         "nickname": "DFRI59",
+        "exit_address": [
+            "103.255.66.69"
+        ],
         "asn": "AS150683"
     },
     {
@@ -16517,9 +16531,6 @@
     },
     {
         "nickname": "artikel10ber126",
-        "exit_address": [
-            "185.220.101.0"
-        ],
         "asn": "AS60729"
     },
     {
@@ -19413,6 +19424,10 @@
     {
         "nickname": "Unnamed",
         "asn": "AS6206"
+    },
+    {
+        "nickname": "angaRelay",
+        "asn": "AS5410"
     },
     {
         "nickname": "artikel10ber17",
@@ -23257,9 +23272,6 @@
     },
     {
         "nickname": "artikel10ber110",
-        "exit_address": [
-            "185.220.101.28"
-        ],
         "asn": "AS60729"
     },
     {
@@ -34796,9 +34808,6 @@
     },
     {
         "nickname": "artikel10ber87",
-        "exit_address": [
-            "185.220.101.22"
-        ],
         "asn": "AS60729"
     },
     {
@@ -35339,6 +35348,10 @@
     {
         "nickname": "idideditheconfig",
         "asn": "AS24940"
+    },
+    {
+        "nickname": "artikel5ev13b",
+        "asn": "AS12876"
     },
     {
         "nickname": "scaramouche",
@@ -36954,6 +36967,10 @@
             "67.215.236.114"
         ],
         "asn": "AS36352"
+    },
+    {
+        "nickname": "Mistralis",
+        "asn": "AS62336"
     },
     {
         "nickname": "relayon0128",
@@ -38676,6 +38693,10 @@
     {
         "nickname": "Geristorproxy",
         "asn": "AS51167"
+    },
+    {
+        "nickname": "zaluphostingska",
+        "asn": "AS44259"
     },
     {
         "nickname": "AirElementX",
@@ -44735,10 +44756,6 @@
     {
         "nickname": "NvorDarkdrop",
         "asn": "AS14061"
-    },
-    {
-        "nickname": "Onionforge01",
-        "asn": "AS49447"
     },
     {
         "nickname": "sinilaukka",
