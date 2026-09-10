@@ -1942,10 +1942,6 @@
         "asn": "AS202539"
     },
     {
-        "nickname": "snvose",
-        "asn": "AS51722"
-    },
-    {
         "nickname": "cryShell02",
         "asn": "AS13045"
     },
@@ -7707,9 +7703,6 @@
     },
     {
         "nickname": "PandaHideout",
-        "exit_address": [
-            "49.213.62.84"
-        ],
         "asn": "AS213605"
     },
     {
@@ -10414,6 +10407,10 @@
         "asn": "AS16276"
     },
     {
+        "nickname": "jeka",
+        "asn": "AS46475"
+    },
+    {
         "nickname": "ygtut",
         "asn": "AS36849"
     },
@@ -10617,9 +10614,6 @@
     },
     {
         "nickname": "DFRI59",
-        "exit_address": [
-            "103.255.66.69"
-        ],
         "asn": "AS150683"
     },
     {
@@ -15073,10 +15067,6 @@
     {
         "nickname": "TOR",
         "asn": "AS7552"
-    },
-    {
-        "nickname": "Espirit",
-        "asn": "AS394380"
     },
     {
         "nickname": "TheShadowRoute03",
@@ -25252,7 +25242,8 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
-            "198.167.206.131"
+            "198.167.206.131",
+            "198.167.206.186"
         ],
         "asn": "AS39287"
     },
@@ -28415,9 +28406,6 @@
     },
     {
         "nickname": "eden",
-        "exit_address": [
-            "194.55.167.14"
-        ],
         "asn": "AS197648"
     },
     {
@@ -29331,6 +29319,10 @@
             "204.8.96.111"
         ],
         "asn": "AS62744"
+    },
+    {
+        "nickname": "heartbreakhotel",
+        "asn": "AS48314"
     },
     {
         "nickname": "Minotaur8",
@@ -34618,6 +34610,10 @@
         "asn": "AS62744"
     },
     {
+        "nickname": "NodeFsn1",
+        "asn": "AS24940"
+    },
+    {
         "nickname": "NTH303R8",
         "asn": "AS8283"
     },
@@ -34771,10 +34767,6 @@
     {
         "nickname": "Killix",
         "asn": "AS56655"
-    },
-    {
-        "nickname": "TorRelayToSee",
-        "asn": "AS3320"
     },
     {
         "nickname": "rpo180flowRecord",
@@ -40234,6 +40226,10 @@
     {
         "nickname": "prsv",
         "asn": "AS16276"
+    },
+    {
+        "nickname": "disastermustang",
+        "asn": "AS62005"
     },
     {
         "nickname": "RexNet",
@@ -49184,6 +49180,9 @@
     },
     {
         "nickname": "Miyano",
+        "exit_address": [
+            "62.83.8.161"
+        ],
         "asn": "AS0"
     },
     {
