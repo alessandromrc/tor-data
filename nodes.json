@@ -163,6 +163,10 @@
         "asn": "AS62744"
     },
     {
+        "nickname": "venenata",
+        "asn": "AS47066"
+    },
+    {
         "nickname": "NTH66R4",
         "exit_address": [
             "192.42.116.66"
@@ -2878,7 +2882,7 @@
         "asn": "AS1205"
     },
     {
-        "nickname": "Unnamed",
+        "nickname": "mountaneer",
         "asn": "AS3352"
     },
     {
@@ -8910,10 +8914,6 @@
         "asn": "AS211507"
     },
     {
-        "nickname": "marshrutizator0x46",
-        "asn": "AS43317"
-    },
-    {
         "nickname": "r0cket14i0",
         "exit_address": [
             "45.84.107.54"
@@ -10083,10 +10083,6 @@
             "194.163.136.187"
         ],
         "asn": "AS51167"
-    },
-    {
-        "nickname": "Aimoguier",
-        "asn": "AS26832"
     },
     {
         "nickname": "SieNCoAd",
@@ -20557,6 +20553,10 @@
     {
         "nickname": "mullbinde5",
         "asn": "AS24940"
+    },
+    {
+        "nickname": "pitime2038",
+        "asn": "AS5089"
     },
     {
         "nickname": "kojofunds",
@@ -31321,6 +31321,10 @@
         "asn": "AS29222"
     },
     {
+        "nickname": "BigTuna",
+        "asn": "AS3842"
+    },
+    {
         "nickname": "myNiceRelay",
         "asn": "AS24940"
     },
@@ -32496,6 +32500,10 @@
             "192.42.116.55"
         ],
         "asn": "AS215125"
+    },
+    {
+        "nickname": "MonRelaisPerso",
+        "asn": "AS12322"
     },
     {
         "nickname": "brentfaiyaz",
@@ -33811,6 +33819,10 @@
             "147.90.235.22"
         ],
         "asn": "AS27284"
+    },
+    {
+        "nickname": "heavan",
+        "asn": "AS48753"
     },
     {
         "nickname": "hollywoodyc",
@@ -36453,10 +36465,6 @@
             "23.129.64.161"
         ],
         "asn": "AS396507"
-    },
-    {
-        "nickname": "HiMom",
-        "asn": "AS53667"
     },
     {
         "nickname": "4532mLiskamm",
@@ -43733,10 +43741,6 @@
         "asn": "AS401401"
     },
     {
-        "nickname": "TorchWood",
-        "asn": "AS24940"
-    },
-    {
         "nickname": "daemonized",
         "asn": "AS209"
     },
@@ -48952,6 +48956,10 @@
             "204.8.96.159"
         ],
         "asn": "AS62744"
+    },
+    {
+        "nickname": "MvdMRelay",
+        "asn": "AS1136"
     },
     {
         "nickname": "lilscrappy",
