@@ -3812,9 +3812,6 @@
     },
     {
         "nickname": "ZaNetExit01",
-        "exit_address": [
-            "89.125.120.229"
-        ],
         "asn": "AS58061"
     },
     {
@@ -10322,10 +10319,6 @@
         "asn": "AS60729"
     },
     {
-        "nickname": "JoshRelayUK",
-        "asn": "AS6871"
-    },
-    {
         "nickname": "nyonyonyo2b",
         "asn": "AS63770"
     },
@@ -12210,10 +12203,6 @@
     {
         "nickname": "ididnteditheconfig",
         "asn": "AS12033"
-    },
-    {
-        "nickname": "stgoldstein4",
-        "asn": "AS204876"
     },
     {
         "nickname": "NTH105R8",
@@ -15126,10 +15115,6 @@
         "asn": "AS8560"
     },
     {
-        "nickname": "MyUbuntuExit",
-        "asn": "AS17858"
-    },
-    {
         "nickname": "nightops",
         "asn": "AS133398"
     },
@@ -16496,6 +16481,10 @@
         "asn": "AS401401"
     },
     {
+        "nickname": "Unnamed",
+        "asn": "AS1241"
+    },
+    {
         "nickname": "CyberSecuritySG",
         "exit_address": [
             "43.228.157.121"
@@ -17428,10 +17417,6 @@
     {
         "nickname": "SchwarzeLocke5",
         "asn": "AS24940"
-    },
-    {
-        "nickname": "ASqUADeo",
-        "asn": "AS210558"
     },
     {
         "nickname": "DFRI89",
@@ -22623,6 +22608,10 @@
             "23.95.117.249"
         ],
         "asn": "AS36352"
+    },
+    {
+        "nickname": "Unnamed",
+        "asn": "AS60131"
     },
     {
         "nickname": "cormega",
@@ -35750,6 +35739,10 @@
         "asn": "AS198093"
     },
     {
+        "nickname": "inly",
+        "asn": "AS25697"
+    },
+    {
         "nickname": "RealityNewsAgain7",
         "asn": "AS13285"
     },
@@ -37516,10 +37509,6 @@
         "asn": "AS62744"
     },
     {
-        "nickname": "Yggdrasil",
-        "asn": "AS12735"
-    },
-    {
         "nickname": "NTH101R4",
         "exit_address": [
             "192.42.116.101"
@@ -38092,9 +38081,6 @@
     },
     {
         "nickname": "PrincessShokora",
-        "exit_address": [
-            "77.250.106.121"
-        ],
         "asn": "AS33915"
     },
     {
@@ -38683,10 +38669,6 @@
         "asn": "AS215125"
     },
     {
-        "nickname": "stgoldstein5",
-        "asn": "AS204876"
-    },
-    {
         "nickname": "TeaIceCream",
         "asn": "AS197540"
     },
@@ -39107,9 +39089,6 @@
     },
     {
         "nickname": "PrincessLipid",
-        "exit_address": [
-            "77.250.106.121"
-        ],
         "asn": "AS33915"
     },
     {
@@ -47870,6 +47849,10 @@
     {
         "nickname": "PubliusAnonymous",
         "asn": "AS8758"
+    },
+    {
+        "nickname": "ChaosRelay",
+        "asn": "AS7018"
     },
     {
         "nickname": "NTH12R3",
