@@ -4364,9 +4364,6 @@
     },
     {
         "nickname": "anonyfirst",
-        "exit_address": [
-            "45.154.96.18"
-        ],
         "asn": "AS212815"
     },
     {
@@ -8693,6 +8690,10 @@
         "asn": "AS215125"
     },
     {
+        "nickname": "PublicExitNode",
+        "asn": "AS215439"
+    },
+    {
         "nickname": "dosyd01",
         "asn": "AS14061"
     },
@@ -9202,6 +9203,10 @@
     {
         "nickname": "torae",
         "asn": "AS36849"
+    },
+    {
+        "nickname": "Bulbasaur",
+        "asn": "AS16276"
     },
     {
         "nickname": "TheShadowRoute12",
@@ -9727,9 +9732,6 @@
     },
     {
         "nickname": "Unnamed",
-        "exit_address": [
-            "173.199.90.74"
-        ],
         "asn": "AS20473"
     },
     {
@@ -11863,6 +11865,10 @@
     {
         "nickname": "brackishwater",
         "asn": "AS29802"
+    },
+    {
+        "nickname": "tidolindo3",
+        "asn": "AS8648"
     },
     {
         "nickname": "Raspi53Tor",
@@ -19911,6 +19917,10 @@
         "asn": "AS16276"
     },
     {
+        "nickname": "FoldWatchersPupJoe",
+        "asn": "AS5607"
+    },
+    {
         "nickname": "Unnamed",
         "asn": "AS6327"
     },
@@ -20526,10 +20536,6 @@
     {
         "nickname": "mullbinde5",
         "asn": "AS24940"
-    },
-    {
-        "nickname": "pitime2038",
-        "asn": "AS2856"
     },
     {
         "nickname": "kojofunds",
@@ -23137,6 +23143,10 @@
         "asn": "AS62744"
     },
     {
+        "nickname": "jkmlmhfwdihoiu",
+        "asn": "AS24940"
+    },
+    {
         "nickname": "galates2",
         "asn": "AS197540"
     },
@@ -24829,6 +24839,10 @@
         "asn": "AS36849"
     },
     {
+        "nickname": "BronkBG2",
+        "asn": "AS211619"
+    },
+    {
         "nickname": "dizum",
         "asn": "AS61125"
     },
@@ -25218,7 +25232,6 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
-            "198.167.206.131",
             "198.167.206.186"
         ],
         "asn": "AS39287"
@@ -30741,7 +30754,7 @@
     },
     {
         "nickname": "OrrinRelayHetzner",
-        "asn": "AS53667"
+        "asn": "AS211619"
     },
     {
         "nickname": "pentestdotidotng",
@@ -32266,7 +32279,7 @@
         "asn": "AS24940"
     },
     {
-        "nickname": "Unnamed",
+        "nickname": "JohnsonAsay",
         "asn": "AS33588"
     },
     {
@@ -34786,9 +34799,6 @@
     },
     {
         "nickname": "Unnamed",
-        "exit_address": [
-            "207.148.100.177"
-        ],
         "asn": "AS20473"
     },
     {
@@ -34897,6 +34907,10 @@
     {
         "nickname": "0uijabroad",
         "asn": "AS24961"
+    },
+    {
+        "nickname": "BronkBG1",
+        "asn": "AS211619"
     },
     {
         "nickname": "yetiready",
@@ -37661,6 +37675,10 @@
         "asn": "AS60729"
     },
     {
+        "nickname": "tidolindo2",
+        "asn": "AS8648"
+    },
+    {
         "nickname": "ryanlewis",
         "asn": "AS36849"
     },
@@ -39568,6 +39586,9 @@
     },
     {
         "nickname": "Modgud",
+        "exit_address": [
+            "158.174.210.97"
+        ],
         "asn": "AS8473"
     },
     {
@@ -40612,6 +40633,10 @@
             "185.129.62.62"
         ],
         "asn": "AS57860"
+    },
+    {
+        "nickname": "sillykitty",
+        "asn": "AS30893"
     },
     {
         "nickname": "thinkindifferent",
@@ -41985,10 +42010,6 @@
             "192.42.116.115"
         ],
         "asn": "AS215125"
-    },
-    {
-        "nickname": "BienwaldKA04",
-        "asn": "AS8881"
     },
     {
         "nickname": "NTH101R8",
@@ -47090,9 +47111,6 @@
     },
     {
         "nickname": "Unnamed",
-        "exit_address": [
-            "209.222.30.179"
-        ],
         "asn": "AS20473"
     },
     {
@@ -48838,9 +48856,6 @@
     },
     {
         "nickname": "blisckatupaya",
-        "exit_address": [
-            "180.149.44.117"
-        ],
         "asn": "AS202422"
     },
     {
@@ -48922,6 +48937,10 @@
             "89.58.41.156"
         ],
         "asn": "AS197540"
+    },
+    {
+        "nickname": "MoksedurRahman",
+        "asn": "AS137967"
     },
     {
         "nickname": "NeelTorExit2A",
