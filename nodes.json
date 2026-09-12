@@ -7533,9 +7533,6 @@
     },
     {
         "nickname": "obzgs5tbmn4q",
-        "exit_address": [
-            "45.38.20.240"
-        ],
         "asn": "AS215659"
     },
     {
@@ -9486,9 +9483,6 @@
     },
     {
         "nickname": "obzgs5tbmn4q",
-        "exit_address": [
-            "45.38.20.240"
-        ],
         "asn": "AS215659"
     },
     {
@@ -11895,6 +11889,10 @@
         "asn": "AS12876"
     },
     {
+        "nickname": "squ33z3Facility0001",
+        "asn": "AS7018"
+    },
+    {
         "nickname": "torexitams26",
         "exit_address": [
             "45.66.35.46"
@@ -12537,9 +12535,6 @@
     },
     {
         "nickname": "obzgs5tbmn4q",
-        "exit_address": [
-            "45.38.20.240"
-        ],
         "asn": "AS215659"
     },
     {
@@ -25204,7 +25199,8 @@
     {
         "nickname": "europeantgah",
         "exit_address": [
-            "198.167.206.152"
+            "198.167.206.152",
+            "198.167.206.171"
         ],
         "asn": "AS39287"
     },
@@ -27913,6 +27909,9 @@
     },
     {
         "nickname": "lunar16",
+        "exit_address": [
+            "203.55.81.2"
+        ],
         "asn": "AS213873"
     },
     {
@@ -34589,9 +34588,6 @@
     },
     {
         "nickname": "obzgs5tbmn4q",
-        "exit_address": [
-            "45.38.20.240"
-        ],
         "asn": "AS215659"
     },
     {
@@ -35069,6 +35065,10 @@
             "109.70.100.2"
         ],
         "asn": "AS208323"
+    },
+    {
+        "nickname": "VagelissRelay",
+        "asn": "AS200736"
     },
     {
         "nickname": "theTorDoor",
@@ -39725,9 +39725,6 @@
     },
     {
         "nickname": "obzgs5tbmn4q",
-        "exit_address": [
-            "45.38.20.240"
-        ],
         "asn": "AS215659"
     },
     {
@@ -46649,7 +46646,7 @@
     },
     {
         "nickname": "archandnixbtw",
-        "asn": "AS6810"
+        "asn": "AS12400"
     },
     {
         "nickname": "opencommunity",
@@ -48265,9 +48262,6 @@
     },
     {
         "nickname": "obzgs5tbmn4q",
-        "exit_address": [
-            "45.38.20.240"
-        ],
         "asn": "AS215659"
     },
     {
@@ -48466,6 +48460,10 @@
     {
         "nickname": "fluffypancakes004ca",
         "asn": "AS26832"
+    },
+    {
+        "nickname": "highwaytohoell",
+        "asn": "AS6724"
     },
     {
         "nickname": "ferrariferrell",
