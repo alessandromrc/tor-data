@@ -1797,9 +1797,6 @@
     },
     {
         "nickname": "2mpe",
-        "exit_address": [
-            "198.98.51.249"
-        ],
         "asn": "AS53667"
     },
     {
@@ -12712,9 +12709,6 @@
     },
     {
         "nickname": "Quintex339",
-        "exit_address": [
-            "204.8.96.88"
-        ],
         "asn": "AS62744"
     },
     {
@@ -16534,9 +16528,6 @@
     },
     {
         "nickname": "Quintex439",
-        "exit_address": [
-            "204.8.96.88"
-        ],
         "asn": "AS62744"
     },
     {
@@ -18208,9 +18199,6 @@
     },
     {
         "nickname": "Quintex139",
-        "exit_address": [
-            "204.8.96.88"
-        ],
         "asn": "AS62744"
     },
     {
@@ -23996,9 +23984,6 @@
     },
     {
         "nickname": "Quintex39",
-        "exit_address": [
-            "204.8.96.88"
-        ],
         "asn": "AS62744"
     },
     {
@@ -27451,9 +27436,6 @@
     },
     {
         "nickname": "Quintex539",
-        "exit_address": [
-            "204.8.96.88"
-        ],
         "asn": "AS62744"
     },
     {
@@ -28179,6 +28161,10 @@
             "171.25.193.131"
         ],
         "asn": "AS198093"
+    },
+    {
+        "nickname": "jay",
+        "asn": "AS3320"
     },
     {
         "nickname": "theroots",
@@ -37328,10 +37314,6 @@
         "asn": "AS31898"
     },
     {
-        "nickname": "twoseven",
-        "asn": "AS3320"
-    },
-    {
         "nickname": "MyRelayNode1",
         "asn": "AS31898"
     },
@@ -39036,9 +39018,6 @@
     },
     {
         "nickname": "4036145210017196",
-        "exit_address": [
-            "150.40.127.243"
-        ],
         "asn": "AS211619"
     },
     {
@@ -39256,9 +39235,6 @@
     },
     {
         "nickname": "Quintex239",
-        "exit_address": [
-            "204.8.96.88"
-        ],
         "asn": "AS62744"
     },
     {
@@ -49351,10 +49327,6 @@
     {
         "nickname": "youngthug",
         "asn": "AS36849"
-    },
-    {
-        "nickname": "Vityatan",
-        "asn": "AS17552"
     },
     {
         "nickname": "Killix",
